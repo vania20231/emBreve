@@ -2,12 +2,19 @@ body{
   background-color: rgb(233, 216, 139);
 }
 
+span{
+  color: rgb(91, 38, 141);
+}
+
+
+
 .intro{
   color: rgb(21, 2, 32);
   font-weight: bold;
   margin-top: 200px;
   text-align: center;
   font-size: 20px;
+
 }
 
 .name{
@@ -27,4 +34,34 @@ body{
  margin-left: 250px;
  margin-top: 80px;
  text-decoration: underline
+
 }
+
+.container{
+  height: 100%;
+  margin-top: 70px;
+  
+}
+
+div.op1{
+width: 20%;
+display: inline-block;
+margin-left: 200px;
+text-decoration: underline;
+font-size: 25px;
+}
+
+div.op2{
+  width: 350px;
+  height: 50px;
+  display: inline-block;
+  background-color: rgb(219, 223, 0);
+  font-size: 28px;
+  text-align: center;
+  
+}
+ .end{
+   text-align: center;
+   margin-top: 350px;
+   font-size: 25px;
+ }
