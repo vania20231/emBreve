@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(233, 216, 139);
+}
+
+.intro{
+  color: rgb(21, 2, 32);
+  font-weight: bold;
+  margin-top: 200px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.name{
+  font-size: 80px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.slogan{
+  font-size: 25px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.informative{
+ font-size: 20px;
+ margin-left: 250px;
+ margin-top: 80px;
+ text-decoration: underline
+}
